@@ -1,0 +1,23 @@
+go.mod
+  s_fa829a78d54f1f::t_d5af48685fb869 1-3
+main.go
+  s_fa829a78d54f1f::t_8a1eeb7bee6ace 1-22
+.gitignore
+  s_fa829a78d54f1f::t_8f0aba55d93d56 12-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "d7650f8845770146e76e1f99313a060e49b8fb4b",
+  "prompts": {},
+  "sessions": {
+    "s_fa829a78d54f1f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fe6c1970fffeGcAcIwQAFPgB5Y",
+        "model": "unknown"
+      },
+      "human_author": "itsmypritam <pritamsdev2@gmail.com>"
+    }
+  }
+}
