@@ -1,0 +1,19 @@
+.gitignore
+  s_fa829a78d54f1f::t_9d1cbc89b85703 1-143
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "af33daeb19c1212503738848db55337b25d85fee",
+  "prompts": {},
+  "sessions": {
+    "s_fa829a78d54f1f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fe6c1970fffeGcAcIwQAFPgB5Y",
+        "model": "unknown"
+      },
+      "human_author": "itsmypritam <pritamsdev2@gmail.com>"
+    }
+  }
+}
